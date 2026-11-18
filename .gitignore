@@ -1,0 +1,7 @@
+# Du lieu chay that: tai khoan, mat khau da bam, lich su, khoa ky cookie
+data.db
+data.db-*
+secret.key
+
+__pycache__/
+*.pyc
